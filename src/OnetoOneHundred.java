@@ -16,7 +16,7 @@ public class OnetoOneHundred {
             if (i % 3 == 0 && i % 5 == 0)
                 System.out.println("CracklePop");
             else
-                System.out.println(i);
+                System.out.println(i + " is not divisible by 3 or 5");
 
             i++;
         }

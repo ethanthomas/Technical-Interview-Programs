@@ -8,8 +8,6 @@ public class ReverseAndSwitchString {
 
     public static void main(String[] args){
 
-
-
         String original, reverse = "";
         String wbw = "";
         Scanner scanner = new Scanner(System.in);

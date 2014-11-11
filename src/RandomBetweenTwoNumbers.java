@@ -1,5 +1,5 @@
 
-public class RandomBetween {
+public class RandomBetweenTwoNumbers {
 
     public static void main(String[] args) {
 
