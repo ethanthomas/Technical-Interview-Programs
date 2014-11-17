@@ -22,7 +22,7 @@ public class SumOfEvenFibonacciNumbers {
         if (n <= 1)
             return n;
         else
-            return fibonacci(n-1) + fibonacci(n-2);
+            return fibonacci(n - 1) + fibonacci(n - 2);
     }
 
 

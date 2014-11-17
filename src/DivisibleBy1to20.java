@@ -5,8 +5,6 @@ public class DivisibleBy1to20 {
 
   
     public static void main(String[] args) {
-
-
         System.out.println(smallest());
     }
 
@@ -22,7 +20,6 @@ public class DivisibleBy1to20 {
                 return i;
             }
         }
-
         return 0;
     }
 }
